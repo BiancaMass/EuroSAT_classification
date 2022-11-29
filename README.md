@@ -4,13 +4,14 @@
 
 This repository contains my work for the class "Deep Learning for Image and Video Processing" taught at Maastricht University by professor Alexia Briassouli.
 
-Author: Bianca M. Massacci \
-Student Number: i6261625 \
-Professor: Alexia Briassouli \
-Class: Deep Learning for Image and Video Processing - KEN4244 \
+_Author_: Bianca M. Massacci \
+_Student Number_: i6261625 \
+_Professor_: Alexia Briassouli \
+_Class_: Deep Learning for Image and Video Processing - KEN4244 \
+
 Master in Data Science for Decision Making. \
 Department of Advanced Computing Sciences (DACS). \
-Faculty of Science and Engineering \
+Faculty of Science and Engineering 
 
 ## Directory Structure and File Contents
 Because of GPU requirements, I wrote and ran all my scripts on Kaggle.
