@@ -1,6 +1,6 @@
 # EuroSAT classification task
 
-## Intro and Credits
+## Intro
 
 This repository contains my work for the class "Deep Learning for Image and Video Processing" taught at Maastricht University by professor Alexia Briassouli.
 
